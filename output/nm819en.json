@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What are the specific requirements for Member Nations to ensure their delegates can cast a vote during the secret ballot election of the Director-General at the 43rd Session of the Conference",
+    "chosen": "For Member Nations to ensure their delegates can cast a vote during the secret ballot election of the Director-General at the FAO's 43rd Session Conference in July 2023:\n\n1. A delegate must be physically present in the Plenary Hall, Rome.\n2. The delegate needs to be duly registered for the 43rd Session beforehand.\n3. The Member Nation should not have lost its voting rights due to financial arrears; if it has, a request for restoring these rights must be submitted and reviewed by the General Committee of the Conference.\n\nEach eligible Member Nation gets one vote in this election on a \"one-country, one-vote\" basis.",
+    "rejected": "To ensure their delegates can cast a vote during the secret ballot election of the Director-General at the 43rd Session of the Conference, Member Nations must have a delegate present in the Plenary Hall in Rome who is registered for online voting and has submitted a request to restore any lost voting rights due to financial arrears. Additionally, each nation can appoint an interested teller from their own region to supervise the balloting procedure."
+  },
+  {
+    "question": "How does Rule XII.10(a) of the General Rules of the Organization mandate the process for appointing the FAO Director-General through a secret ballot procedure",
+    "chosen": "Rule XII.10(a) of the General Rules of the Organization mandates that the appointment of the FAO Director-General must be decided by a secret ballot procedure, even when there is a single candidate. This rule ensures transparency and fairness in the electoral process, requiring all member nations to cast their votes in person at the designated Plenary Hall in Rome on the specified date and time. Each member nation gets one vote, ensuring an equal and democratic decision-making process for the appointment of the Director-General.",
+    "rejected": "Rule XII.10(a) of the General Rules of the Organization mandates that the Director-General must be appointed through an open ballot procedure rather than a secret ballot, ensuring transparency in the election process. Each member nation casts its vote publicly during the Forty-third Session Conference on Sunday, 2 July 2023, at 10:30 am (Rome time)."
+  },
+  {
+    "question": "What are the specific requirements for establishing a quorum before the secret ballot vote according to Rule XV.?",
+    "chosen": "According to the provided context, Rule XV is not directly mentioned in the excerpt; however, the specific requirements for establishing a quorum before the secret ballot vote are detailed under paragraph 15. A mandatory quorum check must confirm that a majority of FAO's Member Nations\u201498 out of 194\u2014are present in the Plenary Hall before voting can commence.",
+    "rejected": "According to Rule XV of the Organization's rules during voting and electoral procedures, establishing a quorum before the secret ballot vote requires that at least 194 Member Nations be present in the Plenary Hall, as each member nation must participate for the quorum to be established. This ensures that all members have an opportunity to cast their votes or abstain from voting. In reality, Rule XV does not exist; the correct rule is Rule XII and Rule XXXVII which state a majority of 98 Member Nations need to be present."
+  },
+  {
+    "question": "How are voting delegates required to handle their electronic devices during the voting process?",
+    "chosen": "Voting delegates are required to hand over their electronic recording or communications devices such as mobile phones and tablets at the entrance of the voting area before casting their ballots. These devices must be surrendered again when entering the vote counting room for the duration of the count, to ensure that the voting process remains secret and undisturbed by external communication. The devices are returned immediately upon exiting these areas.",
+    "rejected": "During the voting process, voting delegates are required to hand over their electronic devices such as mobile phones and tablets at the entrance of the meeting hall but are allowed to retrieve them once they enter the voting area, before depositing their ballot papers. This ensures that there is no communication or recording during the secret ballot voting procedure to maintain its integrity."
+  },
+  {
+    "question": "What information must be kept confidential by those present in the vote counting room according to General Rule XII, paragraph 10(h)",
+    "chosen": "According to General Rule XII, paragraph 10(h), individuals present in the vote counting room are obligated not to disclose any information that might tend to destroy the secrecy of the ballot. This includes details such as how individual members voted, preliminary counts, or any other data that could reveal voting patterns or identities of voters.",
+    "rejected": "According to General Rule XII, paragraph 10(h), those present in the vote counting room must keep confidential the names of voters and their chosen candidates to ensure the secrecy of the ballot. They are prohibited from disclosing any information that could lead to the identification of how individual members voted or any details about the voting process itself."
+  },
+  {
+    "question": "Where is the signed result sheet handed over before announcing the election results?",
+    "chosen": "The signed result sheet is handed over to the Chairperson of the Conference in the Plenary Hall by the Elections Officer before the election results are announced. This transfer occurs after all present have been reminded about maintaining ballot secrecy and after leaving the vote counting room.",
+    "rejected": "The signed result sheet is handed over to the Vice-Chairperson of the Conference before announcing the election results in the Plenary Hall."
+  }
+]
