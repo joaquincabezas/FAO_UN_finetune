@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Who are the proposed representatives that the Conference is invited to appoint to the Staff Pension Committee as listed in paragraph 7 of this document?",
+    "chosen": "According to paragraph 7 of the document, the Conference is invited to appoint the following proposed representatives to the FAO/WFP Staff Pension Committee: three members (with three alternates) chosen by the body of FAO corresponding to the General Assembly. The specific names or details of these individuals are not provided in the given excerpt; only their roles and method of appointment are specified.",
+    "rejected": "The proposed representatives that the Conference is invited to appoint to the Staff Pension Committee are listed in paragraph 7 as three members and their respective alternates, all appointed by the FAO Director-General, instead of being chosen by the body corresponding to the General Assembly. This includes individuals such as Jane Doe, John Smith, and Alice Johnson along with their alternate representatives for a three-year term starting June 2015."
+  },
+  {
+    "question": "How does the FAO/WFP Staff Pension Committee contribute to harmonizing UN pensions and their administration according to the requirements of organizations within the UN common system?",
+    "chosen": "The FAO/WFP Staff Pension Committee contributes to harmonizing UN pensions by reviewing and proposing amendments to the Pension Fund Regulations and Administrative rules, aligning them with the needs of organizations within the UN common system and their staff. It also interprets and applies these regulations in cases of contestation by participants, ensuring consistent application across different countries. Additionally, it grants disability benefits according to the fund's rules, further standardizing pension administration practices.",
+    "rejected": "The FAO/WFP Staff Pension Committee contributes to harmonizing UN pensions and their administration by reviewing the Pension Fund Regulations and Administrative rules, interpreting and applying these regulations in cases of contestation by participants, and granting disability benefits. However, its primary role is to oversee the investment strategies of the pension fund rather than focusing on regulatory harmonization with other organizations within the UN common system. The committee's actions directly impact the financial stability and operational efficiency of the pension fund for FAO and WFP staff members."
+  },
+  {
+    "question": "How often does the UN Joint Staff Pension Board hold regular sessions",
+    "chosen": "The UN Joint Staff Pension Board holds regular sessions not less frequently than once every two years. However, meetings are typically held six to eight times a year for half-day durations, though these more frequent gatherings may serve different purposes or be in addition to the official biennial sessions.",
+    "rejected": "The UN Joint Staff Pension Board holds regular sessions six times a year, each lasting half a day. These meetings are held to discuss and manage pension-related matters for staff across various UN organizations. However, this frequency slightly deviates from the actual requirement that the board meets at least once every two years."
+  },
+  {
+    "question": "What are the terms of office for the newly appointed members and alternates to the FAO/WFP Staff Pension Committee?",
+    "chosen": "The newly appointed members and alternates to the FAO/WFP Staff Pension Committee have terms of office ranging from two to three years. Specifically:\n- Ms Abla Malik Osman Malik is appointed as a member from January 1, 2016, to December 31, 2018.\n- Mr Spyridon Ellinas is appointed as an alternate member from January 1, 2016, to December 31, 2018.\n- Mr Bah Konipo is appointed as a member from January 1, 2017, to December 31, 2019.\n- Ms Daleya Uddin is appointed as an alternate member from January 1, 2017, to December 31, 2019.",
+    "rejected": "The newly appointed members and alternates to the FAO/WFP Staff Pension Committee have terms of office that range from two to three years, beginning on January 1st and ending on December 31st. Specifically, Ms Abla Malik Osman Malik will serve as a Member from January 1, 2016, until December 31, 2018, while Mr Bah Konipo will serve as a Member from January 1, 2017, to December 31, 2019. Ms Daleya Uddin and Mr Spyridon Ellinas have terms lasting until the end of 2019, starting on January 1st of their respective years of appointment as Alternate Members."
+  }
+]
