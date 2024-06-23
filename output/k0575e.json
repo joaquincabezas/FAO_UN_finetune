@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Who was nominated to receive the Margarita Liz\u00e1rraga Medal according to the Council's endorsement",
+    "chosen": "According to the Council's endorsement in June 2007, the Southeast Asian Fisheries Development Center (SEAFDEC) was nominated to receive the Margarita Liz\u00e1rraga Medal. The Director-General is proposed to present this medal to SEAFDEC during the Thirty-fourth Session of the Conference in November 2007.",
+    "rejected": "The Council endorsed the nomination of the Southeast Asian Fisheries Development Organization (SEAFDO), proposing that the Margarita Liz\u00e1rraga Medal be presented to the representative of the organization by the Director-General during the Thirty-fourth Session of the Conference."
+  },
+  {
+    "question": "When and where was the medal proposed to be presented to the Southeast Asian Fisheries Development Center representative by the Director-General?",
+    "chosen": "The Margarita Liz\u00e1rraga Medal was proposed to be presented to the Southeast Asian Fisheries Development Center (SEAFDEC) representative by the Director-General during the Thirty-fourth Session of the Conference in Rome, which took place from 17 - 24 November 2007.",
+    "rejected": "The medal was proposed to be presented to the Southeast Asian Fisheries Development Center representative by the Director-General in June 2007 during the Thirty-fourth Session of the Conference, which took place in Rome from November 17-24, 2008."
+  }
+]
