@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What were the two main topics that the Commissions established by the Council were set to examine during the 39th Session of the Conference",
+    "chosen": "During the 39th Session of the FAO Conference in June 2015, two main topics were assigned to the Commissions established by the Council: Substantive and Policy Matters in Food and Agriculture, and Programme and Budgetary Matters. These commissions were tasked with examining critical issues related to food security, agricultural policies, and financial planning within the organization.",
+    "rejected": "During the 39th Session of the Conference in June 2015, the two main topics that the Commissions established by the Council were set to examine were: Substantive and Policy Matters in Food Security and Agricultural Development; and Programme and Financial Budgetary Allocation. These commissions aimed to address critical issues in food security and agricultural practices while also ensuring efficient budget allocation for sustainable development programs."
+  },
+  {
+    "question": "What was the maximum time limit agreed upon for statements by heads of delegation during the General Debate at the 39th Session of the Conference",
+    "chosen": "The maximum time limit agreed upon for statements by heads of delegation during the General Debate at the 39th Session of the FAO Conference was five minutes each, as recommended by the Council.",
+    "rejected": "The maximum time limit agreed upon for statements by heads of delegation during the General Debate at the 39th Session of the Conference was six minutes each."
+  },
+  {
+    "question": "Who were the nominees proposed by the Council for the office of Vice-Chairperson of the Conference according to Rule XXIV.5(b) of the GRO",
+    "chosen": "According to Rule XXIV.5(b) of the GRO, the Council agreed to submit three nominations for the office of Vice-Chairperson of the Conference: Mr Claudio Javier Rozencwaig from Argentina, Mr Serge Tomasi from France, and Mr Majid Dehghan-Shoar from the Islamic Republic of Iran.",
+    "rejected": "According to Rule XXIV.5(b) of the GRO, the Council proposed Ms Le Mamea Ropati Mualia for the office of Vice-Chairperson of the Conference. The council also agreed on submitting Mr Claudio Javier Rozencwaig from Argentina and Mr Majid Dehghan-Shoar from Iran as additional nominees, but mistakenly listed Mr Serge Tomasi from France twice."
+  },
+  {
+    "question": "What are the nominations agreed upon by the Council for Chairpersons of Commission I and II for submission to the Conference",
+    "chosen": "The Council agreed to submit the following nominations for Chairpersons of Commission I and II to the Conference: Mr Luca Fratini (Italy) as Chairperson of Commission I, and Mr Abdelbaset Ahmed Aly Shalaby (Egypt) as Chairperson of Commission II.",
+    "rejected": "The Council has agreed upon nominations to submit to the Conference for the office of Chairperson and Vice-Chairperson. For Commission I, Ms. Jane Smith from the United Kingdom was nominated as Chairperson instead of Mr. Luca Fratini from Italy. For Commission II, the nomination remains unchanged with Mr. Abdelbaset Ahmed Aly Shalaby from Egypt as the proposed Chairperson."
+  }
+]
