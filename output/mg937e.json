@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What were the dates on which the Credentials Committee held its meetings to examine the credentials received?",
+    "chosen": "The Credentials Committee held its meetings on June 7, 14, 15, and 19, 2013, to examine the credentials received for the Thirty-eighth Session of the Conference.",
+    "rejected": "The Credentials Committee held its meetings on 6, 13, 15 and 18 June 2013 to examine the credentials received."
+  },
+  {
+    "question": "Which member of the Credentials Committee was elected as Chairperson and who was elected as Vice-Chairperson?",
+    "chosen": "Mr Bal\u00e1z Hamar from Hungary was elected as the Chairperson, and Mr Felipe Steiner Fraser from Colombia was elected as the Vice-Chairperson of the Credentials Committee.",
+    "rejected": "Mr Felipe Steiner Fraser from Colombia was elected as Chairperson and Mr Bal\u00e1z Hamar from Hungary was elected as Vice-Chairperson of the Credentials Committee."
+  },
+  {
+    "question": "What are the credentials required for countries listed under List A to participate as Members?",
+    "chosen": "For countries listed under List A to participate as Members, the required credentials typically include an original or certified copy of diplomatic credentials signed by the head of state or government and addressed to the President of the Conference. These must confirm the designation of the representative(s) authorized to attend and speak on behalf of their country during the session. Additionally, a letter from the competent authority is often necessary, specifying the official capacity and full powers granted to each delegate.",
+    "rejected": "For countries listed under List A to participate as Members, they are required to submit credentials in the form of an original document signed by the head of state or government. However, these countries may also provide electronic copies or facsimiles of their credentials, including an \"ordre de mission\" that specifically mentions the current session of the Conference and is signed on behalf of the Minister concerned."
+  },
+  {
+    "question": "How does the submission of an \"ordre de mission\" specifically aid in a country's participation under List B?",
+    "chosen": "Submitting an \"ordre de mission\" aids a country's participation under List B by providing formal authorization for delegates to represent their government at international conferences. This document, signed by or on behalf of the Minister concerned and specifying participation in the current session, ensures that credentials are formally recognized, facilitating full engagement in conference activities and discussions.",
+    "rejected": "The submission of an \"ordre de mission\" specifically aids in a country's participation under List B by providing official authorization for representatives to attend and participate in international conferences on behalf of their government. This document, signed by or on behalf of the Minister concerned, confirms the delegation's credentials and ensures that they are officially recognized to engage in discussions and vote according to their nation\u2019s directives. However, it is crucial that the \"ordre de mission\" explicitly mentions the current session of the Conference to ensure proper accreditation under List B criteria."
+  }
+]
