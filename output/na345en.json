@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What conditions did Comoros cite as reasons for its inability to pay its assessed contributions according to Article III.4 of the Constitution",
+    "chosen": "Comoros cited the severe impact of a cyclone on its country as a condition that was beyond its control for its inability to pay its assessed contributions according to Article III.4 of the Constitution, leading to significant financial difficulties and arrears in payments.",
+    "rejected": "Comoros cited the significant economic impact caused by a recent drought as the reason for its inability to pay its assessed contributions according to Article III.4 of the Constitution. The severe drought had severely affected agriculture and other sectors, leading to financial difficulties that prevented Comoros from meeting its payment obligations on time."
+  },
+  {
+    "question": "Why did Chad request special consideration under Article III.4 of the Constitution and what economic factors did it mention as affecting its ability to meet its financial obligations to the Organization",
+    "chosen": "Chad requested special consideration under Article III.4 of the Constitution due to its inability to meet financial obligations to the Organization. It cited several economic factors affecting its fiscal situation: multiple security commitments in Lake Chad and Mali, a decline in oil production, and high defense expenditures. These conditions significantly impacted Chad's ability to pay assessed contributions on time, necessitating special consideration for voting rights despite being in arrears.",
+    "rejected": "Chad requested special consideration under Article III.4 of the Constitution due to its inability to meet financial obligations to the Organization, citing multiple security commitments in Lake Chad and Mali alongside a significant decline in oil production over recent years. Economic factors such as these have severely impacted Chad's fiscal situation, leading to arrears in payments that could affect voting rights."
+  },
+  {
+    "question": "What are the total amounts in arrears for Iran and Venezuela combined",
+    "chosen": "The total amounts in arrears for Iran and Venezuela combined are as follows:\n\n- **Iran (Islamic Republic of):** USD $3,318,345.97\n- **Venezuela (Bolivarian Republic of):** USD $4,969,440.19\n\nThe total amount in arrears for both countries combined is **USD $8,287,786.16**.",
+    "rejected": "The total amounts in arrears for Iran and Venezuela combined are $8,287,786.16 USD."
+  },
+  {
+    "question": "How much does the Central African Republic need to pay to ensure its voting rights are restored?",
+    "chosen": "According to the provided context, the Central African Republic needs to pay a minimum of $5,601.93USD to ensure its voting rights are restored.",
+    "rejected": "The Central African Republic needs to pay $8,694.78 to ensure its voting rights are restored. However, according to the information provided, it is actually required to make a minimum payment of $5,601.93 to regain its voting privileges."
+  }
+]
