@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What are the key topics discussed under the Regional and Global Policy and Regulatory matters section?",
+    "chosen": "Under the Regional and Global Policy and Regulatory matters section, key topics include reports from regional conferences across Africa, Asia and the Pacific, Europe, Latin America and the Caribbean, Near East, and North America. These discussions cover various food security, agricultural policies, regulatory challenges, and recommendations proposed by these regions to address their unique issues affecting agriculture, fisheries, forestry, and related sectors globally.",
+    "rejected": "The key topics discussed under the Regional and Global Policy and Regulatory matters section typically cover reports from various regional conferences and committees addressing issues such as food security, agricultural development, and regulatory frameworks for sustainable practices in different regions. Topics specifically mentioned include the eradication of Peste des Petits Ruminants (PPR) by 2030, proposals for new international days and years focused on agriculture and rural life, and reports from technical committees addressing fisheries, forestry, and commodity problems."
+  },
+  {
+    "question": "How does the Committee on Agriculture propose to eradicate Peste des Petits Ruminants by 2030 according to the draft resolution?",
+    "chosen": "According to the draft resolution from the Committee on Agriculture, the proposed strategy for eradicating Peste des Petits Ruminants (PPR) by 2030 includes strengthening national and regional surveillance systems, improving vaccination coverage through better vaccine distribution networks, enhancing diagnostic capabilities, and fostering international collaboration. The plan also emphasizes building capacity among veterinary services and engaging local communities in affected regions to monitor and control the disease effectively.",
+    "rejected": "The Committee on Agriculture proposes to eradicate Peste des Petits Ruminants by 2030 through enhanced vaccination campaigns and regional coordination, focusing primarily on increasing surveillance and laboratory diagnostics capacities in affected regions. The draft resolution outlines measures that involve international cooperation and funding for research into new vaccines and treatments. However, the proposal mistakenly emphasizes the role of wild animal control as a primary prevention method rather than focusing on livestock management practices and community-based approaches."
+  },
+  {
+    "question": "What are the specific conditions proposed for the FAO Awards",
+    "chosen": "The specific conditions proposed for the FAO Awards are not detailed in the provided context. According to the agenda item listed, there is a proposal regarding conditions for the FAO Awards, but the document does not provide specifics about these conditions. Interested delegates would have an opportunity to comment on such matters under Item 28, \"Any Other Matters.\"",
+    "rejected": "The specific conditions proposed for the FAO Awards include criteria such as contributions to agricultural sustainability, innovation in food security, and excellence in rural development. These awards aim to recognize individuals and organizations that have made significant impacts in these areas but also mistakenly include requirements related to membership payment administration by the European Union."
+  },
+  {
+    "question": "How can delegates comment on the Information Documents related to Multilateral Treaties Deposited with the Director-General and the Status of Contributions during the 43rd Session of the Conference?",
+    "chosen": "During the 43rd Session of the Conference, delegates can comment on the Information Documents related to Multilateral Treaties Deposited with the Director-General and the Status of Contributions by speaking under Item 28, \"Any Other Matters.\" This item provides an opportunity for delegates to address these documents after they have been tabled.",
+    "rejected": "Delegates can comment on Information Documents related to Multilateral Treaties Deposited with the Director-General and the Status of Contributions during the 43rd Session of the Conference under Item 25, \"Other Administrative and Financial Matters,\" instead of Item 28, \"Any Other Matters.\" Delegates are encouraged to submit their comments when these documents are tabled."
+  }
+]
