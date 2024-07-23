@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What changes were proposed to Rule XII, subparagraph 10(a) regarding elections at the Conference and Council meetings",
+    "chosen": "The proposed amendment to Rule XII, subparagraph 10(a), involves altering the voting procedure for elections at Conference and Council meetings. Specifically, the amendment introduces an exception allowing for appointments to be decided by \"clear general consent\" when there are fewer candidates than vacancies, rather than through a secret ballot. This change aims to streamline decision-making processes in such scenarios.",
+    "rejected": "The proposed changes to Rule XII, subparagraph 10(a) aimed to simplify the voting process during elections at Conference and Council meetings by eliminating the need for a secret ballot in cases where there are fewer candidates than vacancies. Instead, the Chairperson would propose that the appointment be decided by clear general consent among members. This change was intended to streamline decision-making processes when candidate numbers were lower than available positions."
+  },
+  {
+    "question": "How was the decision made to forward the draft resolution for amending Rule XII to the Thirty-ninth Session of the Conference in June 2015",
+    "chosen": "The decision to forward the draft resolution for amending Rule XII to the Thirty-ninth Session of the Conference in June 2015 was made by the Council at its 148th session in December 2013. Following proposals from Member Nations on elections and ballot procedures, the Committee on Constitutional and Legal Matters recommended an amendment to Rule XII at its 97th session in October 2013. The Council endorsed this recommendation and decided to forward it to the Conference for consideration during its Thirty-ninth Session in June 2015.",
+    "rejected": "The decision to forward the draft resolution for amending Rule XII was made during the 147th Council Session in June 2013, where proposals from Member Nations were discussed concerning elections and time spent on secret ballots. The Committee on Constitutional and Legal Matters recommended an amendment at its 97th Session in October 2013, which was then endorsed by the Council during its 148th Session in December 2014 before being sent to the Conference in June 2015 for approval."
+  }
+]
