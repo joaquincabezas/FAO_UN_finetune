@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What is the date and time for the registration deadline for the 173rd Session of the Council",
+    "chosen": "The registration deadline for the 173rd Session of the Council is not explicitly stated in the provided context. However, delegates are invited to register through the FAO Members Gateway and are encouraged to download documents from the organization\u2019s website at https://www.fao.org/about/meetings/council/cl173/en/. For specific deadlines, it would be best to consult the official registration instructions or contact the relevant authorities directly.",
+    "rejected": "The registration deadline for the 173rd Session of the Council is on Sunday, July 9th, 2023, at midnight. Delegates are advised to register through the FAO Members Gateway before this time."
+  },
+  {
+    "question": "Where can delegates find information about side events during the Conference ?",
+    "chosen": "Delegates can find information about side events during the Conference on the FAO website at this link: https://www.fao.org/about/meetings/conference/c2023/c43-side-events/en/. This page lists all scheduled side events.",
+    "rejected": "Delegates can find information about side events during the Conference by checking the FAO website at https://www.fao.org/about/meetings/council/cl173/en/. This site provides details on various side events taking place alongside the main sessions."
+  }
+]
