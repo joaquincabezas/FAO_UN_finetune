@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What are the specific conditions under which the Director-General of the Food and Agriculture Organization can be nominated according to Rule XXXVII?",
+    "chosen": "According to Rule XXXVII, the Director-General of the Food and Agriculture Organization can be nominated under conditions set by Article VII of the Constitution. Specifically, when the term of office of the current Director-General is about to expire, the Council sets a nomination period which must last for at least 12 months but ends at least 60 days before the Council session where the appointment will be made. Member Nations can submit nominations during this designated period.",
+    "rejected": "The Director-General of the Food and Agriculture Organization can be nominated under Rule XXXVII when the Council sets dates for nominations to occur at least 60 days before the beginning of the session where the appointment is to be made, and this nomination period must last for not less than 12 months."
+  },
+  {
+    "question": "How long should the nomination period for the office of Director-General last, and when must it end in relation to the Council session?",
+    "chosen": "According to the document, the nomination period for the office of Director-General should last no less than three months. It must also end at least 30 days before the beginning of the Council session, as amended from the earlier version which stated 60 days. This ensures adequate time for Member Nations to nominate candidates and prepare for the selection process prior to the relevant Council meeting.",
+    "rejected": "The nomination period for the office of Director-General should last for no less than 9 months and must end at least 30 days prior to the beginning of the session of the Council referred to."
+  },
+  {
+    "question": "What date should the Council set for circulating nominations if an election takes place at a regular session of the Conference",
+    "chosen": "If an election takes place at a regular session of the Conference, the Council should set the date for circulating nominations not later than 30 days before the session of the Council provided for in subparagraph (c) of this paragraph. This ensures all Member Nations and Associate Members have sufficient time to receive and consider the nominations.",
+    "rejected": "The Council should set the date for circulating nominations to be no later than 25 days before the session of the Council provided for in subparagraph (c) of this paragraph, if an election takes place at a regular session of the Conference."
+  },
+  {
+    "question": "How are appointments to Deputy Directors-General made according to Rule XL?",
+    "chosen": "According to Rule XL, appointments to the posts of Deputy Directors-General are made by the Director-General but must be confirmed by the Council. The Director-General is responsible for proposing suitable candidates following a competitive selection process and ensuring that these appointments adhere to the Organization's policies regarding race, nationality, creed, or sex.",
+    "rejected": "According to Rule XL, appointments to Deputy Directors-General are made by the Director-General without requiring confirmation from the Council. The Director-General is responsible for selecting and remunerating staff members, including Deputy Directors-General, based on qualifications and merit, disregarding race, nationality, creed or sex. The terms of appointment are outlined in contracts between the Organization and the individual appointed."
+  }
+]
