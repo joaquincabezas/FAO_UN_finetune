@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What is the deadline for submitting the notification request to become a member of the Committee on Commodity Problems?",
+    "chosen": "The deadline for submitting the notification request to become a member of the Committee on Commodity Problems is not later than 10 days before the opening session of the committee. For the thirty-ninth session held in Rome from June 6-13, 2015, notifications should have been submitted by May 27, 2015.",
+    "rejected": "The deadline for submitting the notification request to become a member of the Committee on Commodity Problems is 5 days before the opening session, rather than 10 days as incorrectly stated. The completed form should be submitted to the Secretary-General of the Conference and Council either in person at Room A-140 or via email at CPAC-Web@FAO.org."
+  },
+  {
+    "question": "How can countries that are already members of any of the listed committees apply for continued membership?",
+    "chosen": "Countries that are already members of any of the listed committees do not need to re-apply for membership. To ensure continued membership, they must maintain representation at the committee sessions and avoid notifying their withdrawal from it. If a member country misses two consecutive sessions without representation, its membership may be considered invalid unless it has previously notified an intention to remain a member. Current membership lists can be reviewed at the FAO website: http://www.fao.org/unfao/govbodies/gsbhome/gsb-home/en/.",
+    "rejected": "Countries that are already members of any of the listed committees should submit a new application form to re-apply for membership at least 10 days before the opening session of the relevant committee. They can do this by filling out and signing the notification request form provided, which must be sent to the Secretary-General of the Conference and Council either in person or via email at CPAC-Web@FAO.org. This ensures their continued active membership status in the committees they are part of."
+  }
+]
