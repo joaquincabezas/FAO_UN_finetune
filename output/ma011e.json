@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What were the two commissions established by the Council to examine during the 37th Session of the FAO Conference",
+    "chosen": "During the 37th Session of the FAO Conference, two commissions were established by the Council to examine specific matters:\n(i) Commission I examined Substantive and Policy Matters in Food and Agriculture.\n(ii) Commission II focused on Programme and Budgetary Matters.",
+    "rejected": "The two commissions established by the Council to examine during the 37th Session of the FAO Conference were set up to review, respectively: (i) Substantive and Policy Matters in Food and Agriculture; and (ii) Administrative and Financial Planning."
+  },
+  {
+    "question": "What is the deadline for nominations for election to the Council and when is the election scheduled to take place?",
+    "chosen": "The deadline for nominations for election to the Council is 12:00 hours on Monday, 27 June 2011, and the election itself is scheduled to take place on Friday, 1 July 2011.",
+    "rejected": "The deadline for nominations for election to the Council was set at 12:00 hours on Monday, April 27th, 2011, and the election is scheduled to take place on Friday, July 1st, 2011."
+  }
+]
