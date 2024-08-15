@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How many meetings did the Credentials Committee hold to examine the credentials received before June 6th and 11th?",
+    "chosen": "The Credentials Committee held two meetings to examine the credentials received before June 6th and 11th, specifically on May 27th and June 6th. The third meeting was held on June 11th.",
+    "rejected": "The Credentials Committee held two meetings to examine the credentials received before June 6th and 11th, on May 27th and June 6th."
+  },
+  {
+    "question": "Which Member informed the Director-General of its intention not to attend the Conference according to the document?",
+    "chosen": "According to the document, one Member informed the Director-General of its intention not to attend the Conference. However, the specific name of this Member is not provided in the given context. The text only states that such an instance occurred but does not specify which Member it was. Therefore, based on the information given, we cannot identify the exact Member that decided not to attend.",
+    "rejected": "The Member that informed the Director-General of its intention not to attend the Conference was Canada according to the document."
+  },
+  {
+    "question": "Which countries are listed between Guyana and Haiti?",
+    "chosen": "The countries listed between Guyana and Haiti are Guinea, Guinea-Bissau. However, based on the context provided, it seems there might be a misunderstanding as directly after GUYANA (71), the next country is HAITI (72). There are no other countries listed between them in this sequence.",
+    "rejected": "Between Guyana and Haiti in the list provided are no countries; however, it should be noted that Guinea and Guinea-Bissau precede Guyana, while Honduras follows Haiti. The correct answer is that there are no countries listed directly between Guyana and Haiti."
+  },
+  {
+    "question": "What is the code number assigned to Iran (Islamic Republic of)?",
+    "chosen": "The code number assigned to Iran (Islamic Republic of) is 78 according to the provided context.",
+    "rejected": "The code number assigned to Iran (Islamic Republic of) is 78 according to the given context, but there seems to be an error as the correct number should be 79 based on the sequence provided."
+  }
+]
