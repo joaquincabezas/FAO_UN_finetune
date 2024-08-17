@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What was the decision made by the Credentials Committee regarding the credentials presented by the Government of Tripoli",
+    "chosen": "The Credentials Committee recommended that the Conference should defer consideration of the credentials presented by the Government of Tripoli pending guidance from the General Assembly of the United Nations, while maintaining an empty seat for Libya during the session.",
+    "rejected": "The Credentials Committee decided to fully accept the credentials presented by the Government of Tripoli without any deferral, allowing Libya's delegation to participate actively in the Conference session as per their original submission."
+  },
+  {
+    "question": "How did the Credentials Committee propose to handle delegations referred to in list B according to their recommendation to the Conference?",
+    "chosen": "The Credentials Committee recommended to the Conference that delegations referred to in List B be accepted on the condition that their formal credentials would be communicated to the Director-General as soon as possible. This allowed all listed delegations, including those in List B, to participate fully in the Conference session while ensuring they would provide the necessary formal credentials at a later time.",
+    "rejected": "The Credentials Committee proposed that delegations referred to in list B should have their credentials accepted and communicated to the Director-General at a later date, pending further communication from the respective governments. However, instead of recommending that all delegations be allowed to participate fully in the Conference session, it suggested limiting their participation until formal credentials were received."
+  },
+  {
+    "question": "Why is France listed under List A instead of List B",
+    "chosen": "France is listed under List A because it has submitted its credentials or information on the composition of delegations in a manner that meets specific requirements, such as through an Ordre de Mission, Note Verbale, electronic copy, or facsimile of original credentials, which explicitly mentions the current session of the Conference and is signed by a Minister. This adherence to formal protocol distinguishes it from countries listed under List B, which have not provided their credentials in this precise format.",
+    "rejected": "France is listed under List A because it has submitted its credentials and information on the composition of delegations in a format that meets specific requirements, including an Ordre de Mission signed by the Minister concerned and mentioning the current session of the Conference explicitly. This distinguishes it from countries listed in List B which may not have adhered to these exact requirements for credential submission."
+  },
+  {
+    "question": "How does the submission of an Ordre de Mission affect a country's inclusion in List B",
+    "chosen": "Submitting an Ordre de Mission, along with specific mention of the current session and signed by a Minister or authorized official, qualifies a country for inclusion in List B. This document serves as credentials or information on delegation composition, facilitating their participation under the stipulated conditions. Countries like Afghanistan, Albania, and Algeria are examples listed in List B, having met these criteria.",
+    "rejected": "The submission of an Ordre de Mission affects a country's inclusion in List B by requiring that all listed countries provide credentials or information on delegation composition specifically mentioning the current session of the Conference and signed by a relevant Minister, a Note Verbale, or through an electronic copy or facsimile. However, for countries already listed in List A (as mistakenly mentioned), submission of such documents is optional and does not affect their inclusion status."
+  },
+  {
+    "question": "Why does the list include specific numbers like 113, 114 for countries such as Tanzania and Uruguay",
+    "chosen": "The list includes specific numbers like 113 for Tanzania and 114 for Uruguay to rank or order the countries in a particular sequence, likely based on certain criteria such as population, economic indicators, or alphabetical order depending on additional context not provided here. The number 7 mentioned at the end might refer to Zambia's position in a different subset of the ranking or an error in listing if considering only these seven nations from Tanzania to Yemen.",
+    "rejected": "The list includes specific numbers like 113 and 114 for countries such as Tanzania and Uruguay to reflect their unique positions in an alphabetical order or ranking system based on certain criteria relevant to the context of the document or database, possibly related to economic indicators, population size, or geographical significance. These numbers might also serve as identifiers for internal organization purposes within a report or dataset."
+  },
+  {
+    "question": "What is the significance of the number 7 at the end of the list for Zambia ?",
+    "chosen": "The number \"7\" at the end of the list for Zambia appears to be an outlier or a separate piece of information not directly related to the country listings provided before it. Without additional context, it's difficult to determine its specific significance. It might refer to a ranking, code, or statistic relevant to Zambia but distinct from the numerical values (like population ranks) assigned to other countries in the list.",
+    "rejected": "The number 7 at the end of the list for Zambia indicates its position in a smaller, related ranking within a larger context that includes other countries listed before it. This could refer to a specific category such as economic indicators or quality of life measures where Zambia ranks seventh among a subset of nations mentioned in the given sequence."
+  }
+]
