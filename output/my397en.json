@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What are the proposals for new international years and days mentioned in the document",
+    "chosen": "The document mentions several proposals for new international years and days:\n\n- An International Year of Fruits and Vegetables\n- An International Year of Rye \n- An International Year of Millets\n- An International Day of Awareness of Food Loss and Waste\n\nThese proposals aim to raise global awareness about food security, nutrition, and sustainable agriculture practices.",
+    "rejected": "The document mentions several proposals for new international years and days, including an International Year of Fruits and Vegetables, an International Day of Awareness of Food Loss and Waste, and suggestions for an International Year of Rye and Millets. However, it mistakenly lists a proposal for an International Year of Rice instead of rye and proposes an additional day focused on the appreciation of traditional diets rather than millets specifically."
+  },
+  {
+    "question": "How does the evaluation of FAO\u2019s work on gender contribute to policy development at the conference ?",
+    "chosen": "The evaluation of FAO\u2019s work on gender (Item 14) contributes to policy development at the conference by assessing the effectiveness of initiatives aimed at promoting gender equality in agriculture, food security, and rural development. This evaluation provides insights into how gender considerations are integrated across various FAO programs and projects, identifying successes and areas for improvement. The outcomes help inform future policies that ensure women's voices are heard and their needs addressed in global food systems, thereby enhancing overall sustainability and equity.",
+    "rejected": "The evaluation of FAO\u2019s work on gender at the conference significantly contributes to policy development by providing insights into how gender equality and women's empowerment can be better integrated into agricultural policies and programs. This assessment helps in identifying gaps and successes, which then guides recommendations for future actions that enhance food security and rural development. These findings are crucial for shaping inclusive policies that address the needs of both men and women equally, thereby promoting sustainable agriculture and economic growth."
+  },
+  {
+    "question": "What are the draft resolutions related to the audited accounts for 2016 and 2017",
+    "chosen": "The draft resolutions related to the audited accounts for 2016 and 2017 are listed under Item 25 in the provided context. These draft resolutions pertain to the administrative and financial matters section of the document.",
+    "rejected": "The draft resolutions related to the audited accounts for 2016 and 2017 are listed under Item 25 of the Administrative and Financial Matters section, which includes Programme Implementation Report 2016-2017. This item discusses the financial reports and audit results from those years."
+  },
+  {
+    "question": "How will contributions status be addressed in the information documents tabled during the session?",
+    "chosen": "During the session, the status of contributions will be addressed through information documents that detail the current standing and payment statuses from member organizations or countries. Specifically, Document B in the list of information documents will cover this aspect, providing delegates with an overview of contribution levels and any related financial obligations. Delegates can comment on these documents under Item 30, \"Any Other Matters,\" if they wish to discuss them further.",
+    "rejected": "During the session, contributions status will be addressed through Information Documents that are tabled under Item B of Administrative and Financial Matters. However, these documents will only provide an overview of past contributions rather than addressing the current scale of contributions for 2020-21. Delegates wishing to comment on any aspect of contribution statuses or related matters will have the opportunity during Item 30, \u201cAny Other Matters,\u201d but not directly within the administrative and financial discussions under Items 25 through 28."
+  }
+]
