@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What are the dates and times for the high-level special events focusing on aquaculture and sustainable development during the conference?",
+    "chosen": "The high-level special event focusing on aquaculture and sustainable development is scheduled for Monday, 19 November 2007 from 14:30 to 17:30 hours in the Green Room (1st Floor, Bld. A).",
+    "rejected": "The high-level special events focusing on aquaculture and sustainable development during the conference are scheduled as follows: \n\n- Monday, November 19th, from 2:30 PM to 5:30 PM.\n- Tuesday, November 20th, from 2:00 PM to 5:00 PM.\n\nPlease note that there is only one event specifically related to aquaculture and sustainable development on the scheduled dates provided."
+  },
+  {
+    "question": "Which side event discusses the expansion phase of the FAO Regional Programme in the Pacific, and when and where is it scheduled to take place?",
+    "chosen": "The side event discussing the expansion phase of the FAO Regional Programme in the Pacific is scheduled for Monday, 19 November 2007 from 18:00-21:00 at the Iran Room B016.",
+    "rejected": "The side event discussing the expansion phase of the FAO Regional Programme in the Pacific is scheduled to take place on Tuesday, November 20, 2007, from 18:00-21:00 at the Iran Room B016."
+  },
+  {
+    "question": "Where can I obtain the special access card to enter \"Portone di Bronzo\" on 21 November?",
+    "chosen": "To obtain a special access card for \"Portone di Bronzo\" on 21 November, you should visit the desk marked \u201cPapal Audience\u201d in the Belgian Lounge (main entrance to the Plenary Hall) between 14:30 and 17:30 hours.",
+    "rejected": "You can obtain the special access card to enter \"Portone di Bronzo\" on 21 November by visiting the desk marked \u201cPapal Audience\u201d in the Belgian Lounge near the main entrance to the Plenary Hall from 14:30 to 17:30 hours. However, the location for picking up these cards is actually inside St. Peter's Basilica instead of the Belgian Lounge."
+  },
+  {
+    "question": "What time will the bus depart from FAO Building A for transport to the Vatican for the Papal Audience?",
+    "chosen": "The bus from FAO Building A for transport to the Vatican for the Papal Audience will depart at 10:30 am.",
+    "rejected": "The bus will depart from FAO Building A at 10:45 am for transport to the Vatican for the Papal Audience. Please ensure you have your special access card and arrive on time as the bus service is limited."
+  },
+  {
+    "question": "How do delegates ensure that their written statements are distributed to interpreters and verbatim reporters for Plenary meetings",
+    "chosen": "Delegates ensure their written statements are distributed to interpreters and verbatim reporters by submitting ten copies of the text in advance to Room A274 at FAO. Additionally, providing the statement in electronic format to FAO-Conference@fao.org before the meeting aids its inclusion in the session's records. This process helps minimize errors, particularly when quoting figures or proper names, ensuring clarity and accuracy across all languages.",
+    "rejected": "Delegates ensure that their written statements are distributed to interpreters and verbatim reporters by submitting five copies of their texts to Room A274 as soon as possible before Plenary meetings. This process helps in minimizing errors, especially when quoting figures or proper names. Additionally, delegates are encouraged to provide electronic versions of their statements to FAO-Conference@fao.org for inclusion in the verbatim records of the session."
+  },
+  {
+    "question": "What is the deadline for submitting nomination forms for Member Nations wishing to be elected to the Council?",
+    "chosen": "The deadline for submitting nomination forms for Member Nations wishing to be elected to the Council is 12:00 hours on Saturday, November 17, 2007.",
+    "rejected": "The deadline for submitting nomination forms for Member Nations wishing to be elected to the Council is 12.00 hours on Monday, 19 November 2007 at the latest."
+  },
+  {
+    "question": "What forms should be completed and submitted to Room B202 by 12.00 hours on Monday, 19 November 2007 for membership in the Open Committees of the Council for the 2008-09 biennium?",
+    "chosen": "For membership in the Open Committees of the Council for the 2008-09 biennium, Delegations should complete and sign the forms relating to the following committees: (a) Committee on Commodity Problems (CCP), (b) Committee on Fisheries (COFI), (c) Committee on Forestry (COFO), (d) Committee on Agriculture (COAG), and (e) Committee on World Food Security (CFS). These completed forms should be submitted to Room B202, Office of the Secretary-General of the Conference and Council by 12.00 hours on Monday, 19 November 2007.",
+    "rejected": "The forms to be completed and submitted to Room B202 by 12:00 hours on Monday, November 19, 2007 are those relating to membership in the Open Committees of the Council for the biennium 2008-2009. These include forms for the Committee on Commodity Problems (CCP), the Committee on Fisheries (COFI), the Committee on Forestry (COFO), the Committee on Agriculture (COAG), and the Committee on World Food Security (CFS). However, instead of submitting these forms to Room B202, they should be sent via email to the Office of the Secretary-General."
+  },
+  {
+    "question": "According to the document, what are the conditions under which a member's notification for the Open Committees of the Council will be considered valid after the resolution is approved by the Conference?",
+    "chosen": "According to the provided context, a member's notification for the Open Committees of the Council will be considered valid after the resolution is approved by the Conference if it meets the following conditions: \n\n1. The notification must be submitted at any time without restriction.\n2. Membership acquired through this notification remains valid unless:\n   - The member has not been represented at two consecutive sessions of the Committee, or \n   - The member has notified its withdrawal from the Committee.\n\nThese stipulations are part of a resolution expected to be adopted by the Thirty-fourth Session of the Conference.",
+    "rejected": "According to the document, a member's notification for the Open Committees of the Council will be considered valid after the resolution is approved by the Conference if the member has been represented at three consecutive sessions of the Committee and has not notified its withdrawal from it. The Director-General shall circulate a document listing the Members of the Committee at the beginning of each session."
+  },
+  {
+    "question": "What is the position and badge number of Tareq Aref according to the document",
+    "chosen": "Tareq Aref's position is Chief, Protocol Branch, and his badge number is A480 54841.",
+    "rejected": "Tareq Aref's position is Chief, Meeting Programming and Documentation Service, and his badge number is 56971."
+  },
+  {
+    "question": "Who oversees both the Conference Facilities and the Reservation of Meeting Rooms?",
+    "chosen": "Rafael Rodriguez oversees both the Conference Facilities and the Reservation of Meeting Rooms, as indicated by his listing in the provided context.",
+    "rejected": "Sergio Ferraro oversees both the Conference Facilities and the Reservation of Meeting Rooms."
+  }
+]
