@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What are the draft resolutions related to the Audited Accounts for 2020 and 2021 that will be discussed during the Eleventh Plenary Meeting in the afternoon?",
+    "chosen": "During the Eleventh Plenary Meeting in the afternoon on Thursday, 6 July 2023, the following draft resolutions related to the Audited Accounts for 2020 and 2021 will be discussed:\n\n- Item 26: Draft Resolutions on Audited Accounts 2020 and 2021 (C 2023/5 A; C 2023/5 B; C 2023/6 A; C 2023/6 B; C 2023/LIM/3).",
+    "rejected": "During the Eleventh Plenary Meeting in the afternoon, draft resolutions related to the Audited Accounts for 2019 and 2020 will be discussed instead of those for 2020 and 2021 as mentioned in the document. The discussions will cover items such as Draft Resolutions C 2023/5 A; C 2023/5 B; C 2023/6 A; C 2023/6 B; and C 2023/LIM/3, which address the financial records of previous years."
+  },
+  {
+    "question": "How does the document outline the process for the secret ballot election of three candidates for Council membership vacancies in the Europe Region, scheduled for the evening session on July 6th?",
+    "chosen": "The document outlines that a secret ballot election for three Council membership vacancies in the Europe Region will take place during the evening session on July 6th from 17:00 to 20:00. The process involves voting by delegates using a sample ballot provided, adhering to the rules set forth in C 2023/INF/12. This election is for the period starting July 1st until the end of the 45th Conference.",
+    "rejected": "The document outlines that on July 6th during the evening session from 17:00 to 20:00, there will be an Eleventh PLENARY MEETING where a secret ballot election is scheduled for three candidates to fill Council membership vacancies in the Europe Region. However, it mistakenly states this event takes place in the morning session instead of the evening. The document also mentions that delegates should refer to sample ballot papers and document C 2023/INF/12 for detailed information on the voting process."
+  },
+  {
+    "question": "Who will hold the seats for Africa from July 1, 2024, to the end of the 45th Conference?",
+    "chosen": "From July 1, 2024, to the end of the 45th Conference, Africa will be represented by Equatorial Guinea (which holds 3 seats), Cameroon, Morocco, Lesotho, and Uganda. This gives Africa a total of 7 seats during this period according to the provided context.",
+    "rejected": "From July 1, 2024, to the end of the 45th Conference, the seats held by Africa will be occupied by Cameroon, Morocco, Lesotho, and Uganda. However, it should be noted that only three of these countries are designated to hold seats during this period; one country is incorrectly listed among those set to occupy a seat from July 1, 2024, to the end of the 45th Conference."
+  },
+  {
+    "question": "Which countries are assigned the seats in Asia with a duration starting from the end of the 43rd Conference until June 30, 2026?",
+    "chosen": "The countries assigned the seats in Asia with a duration from the end of the 43rd Conference until June 30, 2026, are India, Pakistan, and either Thailand or Malaysia (with Thailand/Malaysia sharing one seat).",
+    "rejected": "The countries assigned seats in Asia from the end of the 43rd Conference until June 30, 2026, are India, Pakistan, and Thailand/Malaysia for three seats each, and Georgia/Switzerland, Italy, Norway, and Spain/United Kingdom for four seats. However, there's a slight mix-up: Thailand and Malaysia should be considered as one seat shared between them, not two separate seats."
+  }
+]
