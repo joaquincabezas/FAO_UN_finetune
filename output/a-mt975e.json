@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What were the names of the Chairperson and Vice-Chairperson elected by the Credentials Committee?",
+    "chosen": "The Chairperson elected by the Credentials Committee was H.E. Daniela Rotondaro from San Marino, and the Vice-Chairperson was H.E. M\u00f3nica Robelo Raffone from Nicaragua.",
+    "rejected": "The Chairperson and Vice-Chairperson elected by the Credentials Committee were H.E. Daniela Rotondaro from San Marino and H.E. Jorge Robles Raffone from Nicaragua, respectively."
+  },
+  {
+    "question": "How many Members did not provide any information on their participation or representation in the Conference session according to paragraph 3?",
+    "chosen": "According to paragraph 3, 23 Members did not provide any information on their participation or representation in the Conference session.",
+    "rejected": "According to paragraph 3, 24 Members have not provided any information on their participation or representation in the Conference session."
+  },
+  {
+    "question": "What is the ranking of Mexico in this list according to the given document",
+    "chosen": "Mexico is ranked 97 in the given list.",
+    "rejected": "Mexico is ranked at position 96 in the list provided."
+  },
+  {
+    "question": "Where does Uruguay stand in relation to Spain in this sequence?",
+    "chosen": "Uruguay is listed after Spain in the sequence provided. Spain is at position 143, and Uruguay follows at position 164. Therefore, Uruguay stands after Spain in this list.",
+    "rejected": "Uruguay appears after Spain in the sequence provided. Specifically, Spain is listed at number 143 and Uruguay follows it later on at number 164. Therefore, Uruguay stands after Spain in this list but not immediately next to it."
+  }
+]
