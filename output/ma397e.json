@@ -1,0 +1,17 @@
+[
+  {
+    "question": "How do countries currently members of any of the listed committees apply to join additional committees",
+    "chosen": "Countries that are already members of any of the listed committees within the Food and Agriculture Organization (FAO) do not need to reapply for membership in additional committees. Their membership remains valid unless they fail to represent themselves at two consecutive sessions or notify their withdrawal. To join an additional committee, a member country should simply attend relevant sessions and participate actively; there is no separate application process required beyond this active participation and representation.",
+    "rejected": "Countries that are already members of one committee do need to submit a new application if they wish to join additional committees listed by the Food and Agriculture Organization. They should fill out the notification form provided, specifying their interest in joining other committees beyond those they currently belong to, and then submit this form to the Secretary-General's office for consideration."
+  },
+  {
+    "question": "do they need to fill out and submit a notification request form?",
+    "chosen": "Delegations from Member Nations that are not currently members of any of the Committees listed (Committee on Commodity Problems, Committee on Fisheries, Committee on Forestry, Committee on Agriculture, and Committee on World Food Security) need to fill out and submit a notification request form. This is required for them to be considered as new members of these committees. Countries already part of these committees do not need to reapply.",
+    "rejected": "Yes, all delegations from Member Nations that are currently not members of the Committee on Commodity Problems, Committee on Fisheries, Committee on Forestry, Committee on Agriculture, and Committee on World Food Security need to fill out and submit a notification request form. However, countries that are already part of any of these committees do not have to reapply but still must fill out the form if they wish to join additional committees."
+  },
+  {
+    "question": "What are the environmental considerations taken into account by FAO in printing this document, and how can delegates contribute to minimizing its impact?",
+    "chosen": "The FAO minimizes environmental impact by printing this document in limited numbers. Delegates can contribute to minimizing the document's environmental impact by bringing their copies to meetings and refraining from requesting additional copies. This practice reduces paper usage and supports climate neutrality efforts. Additionally, delegates are encouraged to access most FAO meeting documents online at www.fao.org to further reduce print requirements.",
+    "rejected": "The FAO considers environmental impacts by using recycled paper and reducing the number of printed copies to minimize deforestation and waste. However, they also encourage digital access to documents on their website to further reduce paper usage. Delegates can contribute by bringing their own copy to meetings and refraining from requesting additional printouts at the event. This helps in conserving resources and supporting FAO's efforts towards climate neutrality."
+  }
+]
