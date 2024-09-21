@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What were the dates of the meetings held by the Credentials Committee to examine the credentials received?",
+    "chosen": "The Credentials Committee of the Thirty-ninth Session of the Conference held two meetings on 27 May and 6 June 2015 to examine the credentials received.",
+    "rejected": "The Credentials Committee held meetings on 26 May and 5 June 2015 to examine the credentials received."
+  },
+  {
+    "question": "Which Member informed the Director-General of its intention not to attend the Conference and how many Members have not provided any information on their participation or representation in the Conference session?",
+    "chosen": "One Member informed the Director-General of its intention not to attend the Conference, but the specific identity of this member is not provided in the given context. Additionally, 5 Members have not provided any information on their participation or representation in the Conference session.",
+    "rejected": "One Member informed the Director-General of its intention to attend the Conference instead of not attending it. Additionally, 3 Members have not provided any information on their participation or representation in the Conference session."
+  },
+  {
+    "question": "What are some environmental conservation initiatives being discussed by countries like Costa Rica and Panama?",
+    "chosen": "Countries like Costa Rica and Panama are focusing on reforestation, sustainable tourism, and renewable energy. Costa Rica aims to be carbon-neutral by 2050 through initiatives such as expanding its extensive national park system and promoting hydroelectric power. Panama is working on protecting its biodiversity-rich rainforest areas while developing eco-friendly tourism practices. Both countries emphasize international cooperation for conservation efforts.",
+    "rejected": "Some environmental conservation initiatives being discussed by countries like Guyana and Haiti involve reforestation projects and sustainable agriculture practices to protect biodiversity and prevent soil erosion. These nations are also considering ways to reduce deforestation, enhance marine protected areas, and promote renewable energy sources such as wind and solar power."
+  },
+  {
+    "question": "How do economic policies differ between island nations such as Tonga and Trinidad and Tobago in the context provided?",
+    "chosen": "Economic policies between island nations like Tonga and Trinidad and Tobago differ based on their economic structures and dependencies. Tonga, classified as a developing nation, focuses on agriculture and tourism with a significant emphasis on remittances from overseas workers. Its policies often aim to diversify the economy and reduce dependence on external aid. In contrast, Trinidad and Tobago is richer in natural resources like oil and gas, leading its economic policy to prioritize these sectors alongside efforts to build resilience against global commodity price fluctuations. This includes investment in education and infrastructure aimed at fostering a more diversified and sustainable economy.",
+    "rejected": "Economic policies in island nations like Tonga and Trinidad and Tobago differ significantly due to their varying economic structures and external influences. Tonga, as an isolated Pacific nation, relies heavily on remittances, tourism, and agricultural exports, particularly vanilla and coconuts. Its economy is more vulnerable to natural disasters and climate change impacts. In contrast, Trinidad and Tobago has a robust oil and gas sector which dominates its economy, contributing significantly to government revenue through taxation and royalties. This difference in primary economic drivers leads to distinct policy focuses; Tonga prioritizes disaster resilience and sustainable agriculture, while Trinidad and Tobago concentrates on energy security and diversification of its economy beyond hydrocarbons."
+  }
+]
