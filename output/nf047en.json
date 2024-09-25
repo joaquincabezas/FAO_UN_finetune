@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How was the methodology for calculating the European Union\u2019s lump sum contribution revised in 2019",
+    "chosen": "In 2019, the methodology for calculating the European Union\u2019s lump sum contribution was revised based on a recommendation from the Finance Committee's earlier sessions (108th in September 2004 and 109th in May 2005). The new approach adjusts the EU's contribution biennially by applying the higher rate of official cost-of-living increases either in the Euro area or in the host country. This adjustment aims to align more closely with the split assessment system and minimizes impact on the contribution amount while ensuring it reflects actual inflation rates accurately, as evidenced by using Economist Intelligence Unit figures for calculation adjustments.",
+    "rejected": "In 2019, the methodology for calculating the European Union\u2019s lump sum contribution was revised to incorporate a more dynamic cost-of-living adjustment based on inflation rates in both the Eurozone and the host country, specifically Italy. The new approach aimed to better align the EU's contribution with actual economic conditions by applying the higher of the two inflation rates to adjust the biennial payment. This resulted in an increase from \u20ac583,291 to \u20ac587,666 for the 2020-2021 period, reflecting a moderate adjustment based on projected inflation trends."
+  },
+  {
+    "question": "What inflation rate was applied to determine the new lump-sum payment due from the European Union for the 2021-2022 biennium?",
+    "chosen": "The inflation rate applied for determining the new lump-sum payment from the European Union for the 2021-2022 biennium was 0.75%. This figure is derived from the average consumer price inflation rates in the Euro area, with an average of 0.3% for 2020 and a forecasted rate of 1.2% for 2021. The higher rate between this average and the harmonized consumer price index for Italy was chosen to adjust the previous contribution of \u20ac583,291, resulting in a new figure of \u20ac587,666.",
+    "rejected": "The inflation rate applied to determine the new lump-sum payment due from the European Union for the 2021-2022 biennium was 1.5 percent, based on the average consumer price index in the Euro area and the host country. This rate was used to adjust the previous contribution of \u20ac583,291, resulting in a new payment figure."
+  },
+  {
+    "question": "How much was allocated for Organization at Euro 587 666 for the 2022-23 biennium",
+    "chosen": "For the 2022-23 biennium, Euro 587,666 was allocated for Organization at Euro 587 666. This allocation aligns with previous biennia practices where sums due from the European Union are typically directed into a trust or special fund established by the Director-General under Financial Regulation 6.7.",
+    "rejected": "For the 2022-23 biennium, Euro 587,666 was allocated towards Organization expenses. This allocation reflects a continuation of previous funding trends, with plans to deposit the European Union's contribution into a trust or special fund established by the Director-General as per Financial Regulation 6.7."
+  },
+  {
+    "question": "What specific conditions are outlined for the European Union to pay into a trust or special fund established by the Director-General under Financial Regulation 6.7 ?",
+    "chosen": "Under Financial Regulation 6.7, the European Union pays into a trust or special fund established by the Director-General for specific expenses related to organization and coordination activities within the Euro amount of 587,666 for the 2022-23 biennium. This payment is consistent with previous biennia and is intended to cover costs associated with these activities rather than general administrative expenses.",
+    "rejected": "The specific conditions outlined for the European Union to pay into a trust or special fund established by the Director-General under Financial Regulation 6.7 are related to the allocation of funds for organizational expenses within the Euro amount of 587,666 for the 2022-2023 biennium. These conditions stipulate that payments must be made directly to a trust or special fund set up by the Director-General to ensure proper management and use of these financial resources as per previous biennia practices."
+  }
+]
